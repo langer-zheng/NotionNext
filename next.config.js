@@ -66,6 +66,7 @@ const nextConfig = {
       'source.unsplash.com',
       'p1.qhimg.com',
       'webmention.io',
+      'cdn.nlark.com',
       'ko-fi.com'
     ]
   },
