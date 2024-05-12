@@ -67,6 +67,7 @@ const nextConfig = {
       'p1.qhimg.com',
       'webmention.io',
       'cdn.nlark.com',
+      'tu.ss.ci',
       'ko-fi.com'
     ]
   },
